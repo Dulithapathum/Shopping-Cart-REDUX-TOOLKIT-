@@ -1,5 +1,7 @@
 # Shopping Cart with Redux Toolkit
 
+![screencapture-localhost-5173-2025-01-28-18_18_37](https://github.com/user-attachments/assets/aa5ceae7-1a1f-4b12-a0a2-02d43d7b9d9e)
+
 This project is a shopping cart application built with React and Vite, utilizing Redux Toolkit for state management. It features a responsive design, allowing users to browse products, add them to a cart, and manage their cart items.
 
 ## Features

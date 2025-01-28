@@ -3,7 +3,7 @@ import { MdOutlineShoppingCart } from "react-icons/md";
 
 const Header = () => {
   return (
-    <div className="w-full shadow-md">
+    <div className="w-full shadow-md bg-amber-300">
       <header className="w-[1200px] mx-auto   h-16 place-content-between  flex  items-center ">
         <h1 className="text-2xl font-bold">Shopping Cart</h1>
         <div className="flex relative cursor-pointer   ">
